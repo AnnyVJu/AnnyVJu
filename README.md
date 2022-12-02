@@ -14,7 +14,7 @@
 
 <div align="center">
 <h3
-<p> Contact me: </p>
+<p> █▄▄ █▄█ █░▀█ ░█░ █▀█ █▄▄ ░█░ ▄█ </p>
 </h3>
 
 <div align="center" id="badges">
