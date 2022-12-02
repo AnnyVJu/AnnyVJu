@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Hello%20Everyone!&fontSize=75&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Hello%20Everyone!&fontSize=75&fontColor=d6ace6&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!&descAlignY=51&descAlign=80)
 ___
 <p> ♥ Ｉ ａｍ ｃｕｒｒｅｎｔｌｙ ｌｅａｒｎｉｎｇ Ａｎｄｒｏｉｄ Ｄｅｖｅｌｏｐｍｅｎｔ ♥ </p>
 <p> ♥ Ｉ ａｍ ｉｎｔｅｒｅｓｔｅｄ ｉｎ ＵＩ／ＵＸ ｄｅｓｉｇｎ ♥ </p>
