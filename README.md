@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=200&text=Hello%20Everyone!&fontSize=75&fontColor=ff77ff&animation=fadeIn&fontAlignY=60&desc=Welcome%20to%20my%20GitHub%20profile!&descAlignY=85&descAlign=80&stroke=000000&strokeWidth=3)
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=200&text=Hello%20Everyone!&fontSize=75&fontColor=aa0066&animation=fadeIn&fontAlignY=60&desc=Welcome%20to%20my%20GitHub%20profile!&descAlignY=85&descAlign=80&stroke=ff77ff&strokeWidth=3)
+
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=200&text=Hello%20Everyone!&fontSize=75&fontColor=220022&animation=fadeIn&fontAlignY=60&desc=Welcome%20to%20my%20GitHub%20profile!&descAlignY=85&descAlign=80&stroke=ff77ff&strokeWidth=2)
 ___
 <p> ♥ Ｉ  ａｍ  ｃｕｒｒｅｎｔｌｙ  ｌｅａｒｎｉｎｇ  Ａｎｄｒｏｉｄ  Ｄｅｖｅｌｏｐｍｅｎｔ ♥ </p>
 <p> ♥ Ｉ  ａｍ  ｉｎｔｅｒｅｓｔｅｄ  ｉｎ  ＵＩ／ＵＸ  ｄｅｓｉｇｎ ♥ </p>
