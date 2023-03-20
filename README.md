@@ -9,9 +9,9 @@ ___
 <div align="center">
 <h3
 <p> Languages and Tools </p>
-</h3>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" wirth="40" height="40"/>&nbsp;
+</h3>  
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" wirth="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" wirth="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android" wirth="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" wirth="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" wirth="40" height="40"/>&nbsp;
@@ -22,7 +22,7 @@ ___
 <div align="center">
 <h3
 <p>
-Ｃｏｎｔａｃｔｓ
+Contacts
 </p>
 </h3>
 
