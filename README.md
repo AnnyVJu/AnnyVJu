@@ -1,15 +1,17 @@
 
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=300030&height=200&text=Hello%20Everyone!&fontSize=75&fontColor=ff77ff&animation=fadeIn&fontAlignY=50&desc=Welcome%20to%20my%20GitHub%20profile!&descAlignY=75&descAlign=80&stroke=000000&strokeWidth=2)
 ___
-<p> ♥ Ｉ  ａｍ  ｃｕｒｒｅｎｔｌｙ  ｌｅａｒｎｉｎｇ  Ａｎｄｒｏｉｄ  Ｄｅｖｅｌｏｐｍｅｎｔ ♥ </p>
-<p> ♥ Ｉ  ａｍ  ｉｎｔｅｒｅｓｔｅｄ  ｉｎ  ＵＩ／ＵＸ  ｄｅｓｉｇｎ ♥ </p>
+<p> ♥ I am currently learning mobile development ♥ </p>
+<p> ♥ I am interested in UI/UX design ♥ </p>
 
 ___
 
 <div align="center">
 <h3
-<p> Ｌａｎｇｕａｇｅｓ ａｎｄ Ｔｏｏｌｓ </p>
+<p> Languages and Tools </p>
 </h3>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" wirth="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" wirth="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android" wirth="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" wirth="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" wirth="40" height="40"/>&nbsp;
