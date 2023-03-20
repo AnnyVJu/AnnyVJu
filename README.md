@@ -2,6 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=300030&height=200&text=Hello%20Everyone!&fontSize=75&fontColor=ff77ff&animation=fadeIn&fontAlignY=50&desc=Welcome%20to%20my%20GitHub%20profile!&descAlignY=75&descAlign=80&stroke=000000&strokeWidth=2)
 
 <div align="center">
+  
 ___
 <p> ♥ I am currently learning mobile development ♥ </p>
 <p> ♥ I am interested in UI/UX design ♥ </p>
